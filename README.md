@@ -1,0 +1,2 @@
+# CORE
+.NET Core Projects
